@@ -1,0 +1,14 @@
+Python 3.14.8 (tags/v3.14.8:8e6e75d, Sep 30 2026, 18:19:33) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+
+============ RESTART: C:/Users/loref/OneDrive/Documents/generador.py ===========
+=============================================
+  🔐 GENERADOR DE CONTRASEÑAS SEGURAS 🔐  
+=============================================
+¿Cuántos caracteres quieres que tenga tu contraseña?: 7
+
+---------------------------------------------
+✔️ ¡Contraseña generada con éxito!
+👉 Tu nueva contraseña es: S7Nfh))
+---------------------------------------------
+¡Cópiala y guárdala en un lugar seguro!
